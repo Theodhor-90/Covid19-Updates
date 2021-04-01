@@ -1,0 +1,70 @@
+.is-overflowed-x{
+  overflow: auto;
+  height: 60vh;
+}
+
+.roboto{
+  font-family: roboto;
+}
+
+thead tr th a{
+  color: darkgreen;
+}
+
+.container tbody tr th a{
+  color: teal;
+  font-weight: bold;
+}
+.cantarell{
+  font-family: cantarell;
+}
+
+.light-font{
+  font-weight: lighter;
+}
+
+.is-full-width{
+  width: 100%;
+}
+
+.justify-center{
+  justify-content: center!important;
+}
+
+.sticky{
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.back-white-search{
+  background-color: white;
+  z-index: 2;
+}
+.back-white-table{
+  background-color: white;
+  z-index: ;
+}
+.p-top-0{
+  padding-top: 0!important;
+}
+
+.centralized{
+  display: flex;
+  align-items: center;
+  justify-content: center!important;
+}
+
+.justify-around{
+  justify-content: space-around!important;
+}
+
+.article-element{
+  margin: 5px 2px;
+}
+
+.search-span{
+  padding: 1px 5px;
+  color: darkgrey;
+}
